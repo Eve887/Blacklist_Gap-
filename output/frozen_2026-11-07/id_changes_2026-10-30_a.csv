@@ -1,0 +1,44 @@
+﻿page/row in source,old ID,new ID
+"S.No 1 (AP_firms_blacklisted_2022-12-13.pdf page 1, table 1, row 4)",AP-0001,AP-F-001
+"S.No 2 (AP_firms_blacklisted_2022-12-13.pdf page 1, table 1, row 5)",AP-0002,AP-F-002
+"S.No 3 (AP_firms_blacklisted_2022-12-13.pdf page 1, table 1, row 6)",AP-0003,AP-F-003
+"S.No 4 (AP_firms_blacklisted_2022-12-13.pdf page 1, table 1, row 7)",AP-0004,AP-F-004
+"S.No 5 (AP_firms_blacklisted_2022-12-13.pdf page 1, table 1, row 8)",AP-0005,AP-F-005
+"S.No 6 (AP_firms_blacklisted_2022-12-13.pdf page 2, table 1, row 4)",AP-0006,AP-F-006
+"S.No 7 (AP_firms_blacklisted_2022-12-13.pdf page 2, table 1, row 5)",AP-0007,AP-F-007
+"S.No 8 (AP_firms_blacklisted_2022-12-13.pdf page 2, table 1, row 6)",AP-0008,AP-F-008
+"S.No 9 (AP_firms_blacklisted_2022-12-13.pdf page 2, table 1, row 7)",AP-0009,AP-F-009
+"Year 2018-19, S No 1 (AP_items_blacklisted_2024-09-13.pdf page 2, table 1, row 11)",AP-0022,AP-P-2018-19-001
+"Year 2018-19, S No 4 (AP_items_blacklisted_2024-09-13.pdf page 2, table 1, row 5)",AP-0017,AP-P-2018-19-004
+"Year 2018-19, S No 5 (AP_items_blacklisted_2024-09-13.pdf page 2, table 1, row 6)",AP-0018,AP-P-2018-19-005
+"Year 2018-19, S No 6 (AP_items_blacklisted_2024-09-13.pdf page 2, table 1, row 7)",AP-0019,AP-P-2018-19-006
+"Year 2018-19, S No 7 (AP_items_blacklisted_2024-09-13.pdf page 2, table 1, row 8)",AP-0020,AP-P-2018-19-007
+"Year 2018-19, S No 8 (AP_items_blacklisted_2024-09-13.pdf page 2, table 1, row 9)",AP-0021,AP-P-2018-19-008
+"Year 2019-20, S No 1 (AP_items_blacklisted_2024-09-13.pdf page 3, table 1, row 8)",AP-0025,AP-P-2019-20-001
+"Year 2019-20, S No 2 (AP_items_blacklisted_2024-09-13.pdf page 3, table 1, row 5)",AP-0023,AP-P-2019-20-002
+"Year 2019-20, S No 2 (AP_items_blacklisted_2024-09-13.pdf page 3, table 1, row 9)",AP-0026,AP-P-2019-20-002-b
+"Year 2019-20, S No 3 (AP_items_blacklisted_2024-09-13.pdf page 3, table 1, row 6)",AP-0024,AP-P-2019-20-003
+"Year 2019-20, S No 3 (AP_items_blacklisted_2024-09-13.pdf page 3, table 1, row 10)",AP-0027,AP-P-2019-20-003-b
+"Year 2020-21, S No 1 (AP_items_blacklisted_2024-09-13.pdf page 5, table 1, row 6)",AP-0034,AP-P-2020-21-001
+"Year 2020-21, S No 2 (AP_items_blacklisted_2024-09-13.pdf page 5, table 1, row 7)",AP-0035,AP-P-2020-21-002
+"Year 2020-21, S No 3 (AP_items_blacklisted_2024-09-13.pdf page 5, table 1, row 8)",AP-0036,AP-P-2020-21-003
+"Year 2020-21, S No 4 (AP_items_blacklisted_2024-09-13.pdf page 4, table 1, row 4)",AP-0028,AP-P-2020-21-004
+"Year 2020-21, S No 4 (AP_items_blacklisted_2024-09-13.pdf page 5, table 1, row 9)",AP-0037,AP-P-2020-21-004-b
+"Year 2020-21, S No 5 (AP_items_blacklisted_2024-09-13.pdf page 4, table 1, row 5)",AP-0029,AP-P-2020-21-005
+"Year 2020-21, S No 6 (AP_items_blacklisted_2024-09-13.pdf page 4, table 1, row 6)",AP-0030,AP-P-2020-21-006
+"Year 2020-21, S No 7 (AP_items_blacklisted_2024-09-13.pdf page 4, table 1, row 7)",AP-0031,AP-P-2020-21-007
+"Year 2020-21, S No 8 (AP_items_blacklisted_2024-09-13.pdf page 4, table 1, row 8)",AP-0032,AP-P-2020-21-008
+"Year 2020-21, S No 9 (AP_items_blacklisted_2024-09-13.pdf page 5, table 1, row 4)",AP-0033,AP-P-2020-21-009
+"Year 2022-23, S No 5 (AP_items_blacklisted_2024-09-13.pdf page 6, table 1, row 6)",AP-0038,AP-P-2022-23-005
+"Year 2022-23, S No 6 (AP_items_blacklisted_2024-09-13.pdf page 6, table 1, row 7)",AP-0039,AP-P-2022-23-006
+"Year 2022-23, S No 7 (AP_items_blacklisted_2024-09-13.pdf page 6, table 1, row 8)",AP-0040,AP-P-2022-23-007
+"Year 2022-23, S No 8 (AP_items_blacklisted_2024-09-13.pdf page 6, table 1, row 9)",AP-0041,AP-P-2022-23-008
+"Year 2022-23, S No 9 (AP_items_blacklisted_2024-09-13.pdf page 6, table 1, row 10)",AP-0042,AP-P-2022-23-009
+"Year 2023-24, S No 1 (AP_items_blacklisted_2024-09-13.pdf page 7, table 1, row 6)",AP-0043,AP-P-2023-24-001
+"Year ?, S No 1 (AP_items_blacklisted_2024-09-13.pdf page 1, table 1, row 5)",AP-0010,AP-P-UNKNOWN-001
+"Year ?, S No 1 (AP_items_blacklisted_2024-09-13.pdf page 1, table 1, row 10)",AP-0014,AP-P-UNKNOWN-001-b
+"Year ?, S No 2 (AP_items_blacklisted_2024-09-13.pdf page 1, table 1, row 6)",AP-0011,AP-P-UNKNOWN-002
+"Year ?, S No 2 (AP_items_blacklisted_2024-09-13.pdf page 1, table 1, row 11)",AP-0015,AP-P-UNKNOWN-002-b
+"Year ?, S No 3 (AP_items_blacklisted_2024-09-13.pdf page 1, table 1, row 7)",AP-0012,AP-P-UNKNOWN-003
+"Year ?, S No 3 (AP_items_blacklisted_2024-09-13.pdf page 1, table 1, row 12)",AP-0016,AP-P-UNKNOWN-003-b
+"Year ?, S No 4 (AP_items_blacklisted_2024-09-13.pdf page 1, table 1, row 8)",AP-0013,AP-P-UNKNOWN-004

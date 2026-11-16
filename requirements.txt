@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pdfplumber
+openpyxl
+rapidfuzz
+matplotlib
+python-docx
+pytesseract
+playwright

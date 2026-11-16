@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/
+*.zip
+_installers/
+code_history/
+.env
+~$*.xlsx
